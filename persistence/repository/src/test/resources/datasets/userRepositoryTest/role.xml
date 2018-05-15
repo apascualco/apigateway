@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <role id="0" role_name="USER" audit_user_update="TESTING" audit_last_update="2018-01-01"/>
+    <role id="1" role_name="ADMIN" audit_user_update="TESTING" audit_last_update="2018-01-01"/>
+    <role id="2" role_name="EDITOR" audit_user_update="TESTING" audit_last_update="2018-01-01"/>
+    <role id="3" role_name="ROOT" audit_user_update="TESTING" audit_last_update="2018-01-01"/>
+</dataset>

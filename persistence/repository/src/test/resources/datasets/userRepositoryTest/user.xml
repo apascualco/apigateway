@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <user id="0" email="ejemplo@mail.com" password="testing" first_name="Ejemplo" last_name="Last Name" active="true"
+          audit_user_update="TESTING" audit_last_update="2018-01-01"/>
+</dataset>
+
